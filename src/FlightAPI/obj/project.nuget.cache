@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MUEdYSoEt4vxkOCjnFc5HIGbL07QMUHnia4kRmt9aqjrDM6kqnz1tUBJFqCuZJPrgQFybvu2ErakXwfI6rQ4Nw==",
+  "dgSpecHash": "nKlIjyUXeBjn745kk4edCeOynZHQHj4ftwd3Ywog8mKWVX4jp0uBGJqj/2a3EC/2faUlsGi/bMF83ecKqrgPrw==",
   "success": true,
-  "projectFilePath": "/Users/tarwolfson/Documents/FlightService/src/FlightAPI/FlightAPI.csproj",
+  "projectFilePath": "/Users/tarwolfson/Documents/FlightService/FlightService/src/FlightAPI/FlightAPI.csproj",
   "expectedPackageFiles": [
     "/Users/tarwolfson/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/tarwolfson/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

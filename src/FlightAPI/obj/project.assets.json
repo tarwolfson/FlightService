@@ -470,11 +470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarwolfson/Documents/FlightService/src/FlightAPI/FlightAPI.csproj",
+      "projectUniqueName": "/Users/tarwolfson/Documents/FlightService/FlightService/src/FlightAPI/FlightAPI.csproj",
       "projectName": "FlightAPI",
-      "projectPath": "/Users/tarwolfson/Documents/FlightService/src/FlightAPI/FlightAPI.csproj",
+      "projectPath": "/Users/tarwolfson/Documents/FlightService/FlightService/src/FlightAPI/FlightAPI.csproj",
       "packagesPath": "/Users/tarwolfson/.nuget/packages/",
-      "outputPath": "/Users/tarwolfson/Documents/FlightService/src/FlightAPI/obj/",
+      "outputPath": "/Users/tarwolfson/Documents/FlightService/FlightService/src/FlightAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tarwolfson/.nuget/NuGet/NuGet.Config"
