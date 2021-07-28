@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.6.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{54B7CCA4-DBBB-4F44-B753-E854790B22F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightAPI", "src\FlightAPI\FlightAPI.csproj", "{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightServiceTests", "src\FlightServiceTests\FlightServiceTests.csproj", "{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Debug|x64.Build.0 = Debug|Any CPU
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Debug|x86.Build.0 = Debug|Any CPU
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Release|x64.ActiveCfg = Release|Any CPU
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Release|x64.Build.0 = Release|Any CPU
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Release|x86.ActiveCfg = Release|Any CPU
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7}.Release|x86.Build.0 = Release|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Debug|x64.Build.0 = Debug|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Debug|x86.Build.0 = Debug|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Release|x64.ActiveCfg = Release|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Release|x64.Build.0 = Release|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Release|x86.ActiveCfg = Release|Any CPU
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB}.Release|x86.Build.0 = Release|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Debug|x64.Build.0 = Debug|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Debug|x86.Build.0 = Debug|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Release|x64.ActiveCfg = Release|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Release|x64.Build.0 = Release|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Release|x86.ActiveCfg = Release|Any CPU
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CEA30019-FEE5-45EE-9353-B51ADEF1C4E7} = {54B7CCA4-DBBB-4F44-B753-E854790B22F9}
+		{C62D0C16-F529-4D1E-96F7-3C816868AFDB} = {54B7CCA4-DBBB-4F44-B753-E854790B22F9}
+		{FA460E2F-FDAD-4A07-AA7E-EEAF7F99A20B} = {54B7CCA4-DBBB-4F44-B753-E854790B22F9}
+	EndGlobalSection
+EndGlobal
